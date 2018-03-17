@@ -4,4 +4,6 @@ apt install tree
 
 apt-cathe search matplotlib
 
-sudo apt=get installl python-matplotlib
+sudo apt-get install python-matplotlib
+
+sudo apt-get install python3-matplotlib
