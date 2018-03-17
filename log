@@ -1,3 +1,7 @@
 sudo apt-get install g++
 
 apt install tree
+
+apt-cathe search matplotlib
+
+sudo apt=get installl python-matplotlib
