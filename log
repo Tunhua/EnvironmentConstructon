@@ -1,4 +1,5 @@
-sudo apt-get install g++
+
+gitsudo apt-get install g++
 
 apt install tree
 
@@ -15,3 +16,7 @@ ssh-keygen -t rsa -C "tunhuatian@gmail.com
 sudo apt-get install vim-gtk
 
 ssh-keygen -t rsa
+
+git config user.name
+
+git config user.email
