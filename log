@@ -1,3 +1,4 @@
+
 sudo apt-get install g++
 
 apt install tree
@@ -11,3 +12,5 @@ sudo apt-get install python3-matplotlib
 ssh-keygen -t rsa -C "tunhuatian@gmail.com
 
 ~/.ssh
+
+sudo apt-get install vim-gtk
