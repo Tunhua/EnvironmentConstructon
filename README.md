@@ -1,8 +1,4 @@
-# EnvironmentConstructon
+# EnvironmentConstruction
 
-Windows 10
-
-Windows Subsystem for Linux
-
-Ubuntu
+For ubuntu.
 
