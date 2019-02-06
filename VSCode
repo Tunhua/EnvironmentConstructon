@@ -1,0 +1,38 @@
+{
+    //wrap
+    "editor.wordWrap": "on",
+    "files.trimTrailingWhitespace": true,
+    //make minimap false
+    "editor.minimap.enabled": false,
+    //make value twig and vue
+    "emmet.includeLanguages": {
+        "twig": "html",
+        "vue-html": "html"
+    },
+    "vim.useSystemClipboard": true,
+    "vim.hlsearch": true,
+    "vim.easymotion": true,
+    "vim.visualstar": true,
+    "vim.useCtrlKeys": true,
+    "window.zoomLevel": 3,
+    "workbench.sideBar.location": "right",
+    "explorer.confirmDelete": false,
+    "workbench.colorTheme": "Monokai Dimmed",
+    "explorer.confirmDragAndDrop": false,
+    "editor.renderWhitespace": "none",
+    "editor.formatOnSave": true,
+    "python.linting.mypyArgs": [
+        "--ignore-missing-imports",
+        "--follow-imports=silent",
+        "--strict",
+    ],
+    "python.linting.mypyEnabled": true,
+    "python.linting.flake8Enabled": true,
+    "python.linting.pep8Enabled": true,
+    "python.linting.pydocstyleEnabled": true,
+    "python.linting.pylamaEnabled": true,
+    "python.pythonPath": "/home/tunhua/aisystem/ve3.6_aisystem/bin/python",
+    "python.linting.flake8Args": [
+        "--per-file-ignores=*/__init__.py:F401"
+    ],
+}
